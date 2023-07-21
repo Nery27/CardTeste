@@ -23,7 +23,7 @@
   width: 100%;
   border-radius: 25px;
   padding: 30px;
-  border: 1px solid #000;
+  border: 1px solid #2b2a2a83;
   box-shadow: 0 5px 80px #000;
 
    backdrop-filter: blur(04px);
